@@ -11,7 +11,7 @@ SELECT orderdetails.OrderID, orderdetails.OrderDate, customerss.CompanyName,
     -> employees.FirstName = "Margaret";
 ```
 ### Hasil
-![f.jpeg](asett/f.jpeg)
+![f.jpeg](Asett/f.jpeg)
 
 ### Analisis 
 -Select= untuk memili kolom mana saja yang ingin di tampilkan dan dari tabel         mana kolom tersebut diambil
@@ -44,7 +44,7 @@ AND products.ProductID = ordersdetails.ProductID
 order by customers.CustomersID;
 ```
 ### Hasil
-![hasil2.png](asett/hasil2.png)
+![hasil2.png](Asett/hasil2.png)
 ### Analisis
 -select = untuk memilih kolom mana saja yang ingin ditampilkan  dan dari tabel mana kolom tersebut diambil.
 
@@ -81,10 +81,10 @@ select customers.CustomersID,  customers.CompanyName, orders.OrdersID AS OrdiD, 
 ```
 
 ### Hasil
-![hasill1.png](asett/hasill1.png)
-![hasill2.png](asett/hasill2.png)
-![hasill3.png](asett/hasill3.png)
-![hasill4.png](asett/hasill4.png)
+![hasill1.png](Asett/hasill1.png)
+![hasill2.png](Asett/hasill2.png)
+![hasill3.png](Asett/hasill3.png)
+![hasill4.png](Asett/hasill4.png)
 ### Analisis
 SELECT = untuk memilih kolom mana saja yang ingin ditampilkan dan digabungkan serta dari tabel mana kolom tersebut dipilih.
 
